@@ -1,0 +1,42 @@
+body { 
+    background-color: greenyellow;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    text-transform: capitalize;
+}
+h1 {
+    text-align: center;
+    text-decoration: overline goldenrod dotted;
+    color: red
+
+}
+#d1 {
+  text-decoration: line-through;
+  text-shadow: 4px 2px white;
+}
+#d1:hover {
+    letter-spacing: 5px; 
+
+div { 
+    text-indent: 50px;
+    word-spacing: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+a:hover {
+    
+   background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+#bh1 {
+    font-size: 70px;
+}
+#d3 {
+    background-color: black;
+}
+

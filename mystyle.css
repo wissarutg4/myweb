@@ -1,0 +1,45 @@
+ body.bg {
+     background-color: yellowgreen;
+     font-size: 20px;
+     color: white;
+     
+ }
+ body.bg1 {
+     background-color: chartreuse;
+ }
+ body.bgw {
+    background-color: yellowgreen;
+    font-size:100px;
+}
+h1.bgh {
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration: none;
+    display: block;
+    background-color: rgb(62, 199, 62);
+    text-align: center;
+    
+
+}
+ a:hover {
+   background-color:greenyellow;
+   border-radius: 20px;
+   border: 2px solid green;
+   letter-spacing: 5px;
+   
+}
+::-webkit-scrollbar {
+    width: 20px;
+}
+::-webkit-scrollbar-track {
+    background:rgb(146, 255, 146);
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(39, 167, 34); 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(87, 163, 84); 
+}
